@@ -1,7 +1,7 @@
-## Script to access and download data from the US Department of Agriculture's Air-Water Database (AWDB) Web Service through a SOAP API.
+### Script to access and download data from the US Department of Agriculture's Air-Water Database (AWDB) Web Service through its SOAP API.  The web service is used for automating data management tools including regression and anomoly detection tools.
 
+Example of downloading data into a pandas dataframe through the web service.
+![example](/get_data_example.png)
 
-![hydroadmindashboard](/get_data_example.png)
-
-More about the web service can be found here (https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/webService/).
+More information about the web service can be found here (https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/webService/).
 
